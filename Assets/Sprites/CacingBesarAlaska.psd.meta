@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: abb27f927f8875643a590f3778206ed3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7252843401802758052
+    second: CacingBesarAlaska_0
+  - first:
+      213: -5861583553766209510
+    second: CacingBesarAlaska_1
+  - first:
+      213: 1384861186388810787
+    second: CacingBesarAlaska_2
+  - first:
+      213: 1311980999712328448
+    second: CacingBesarAlaska_3
+  - first:
+      213: 2850576378228781935
+    second: CacingBesarAlaska_4
+  - first:
+      213: 1577602253768674354
+    second: CacingBesarAlaska_5
+  - first:
+      213: -6087229371646956298
+    second: CacingBesarAlaska_6
+  - first:
+      213: 3330546524691908999
+    second: CacingBesarAlaska_7
+  - first:
+      213: 466394545615688249
+    second: CacingBesarAlaska_8
+  - first:
+      213: -9201719362088941761
+    second: CacingBesarAlaska_9
+  - first:
+      213: 2228170517221995206
+    second: CacingBesarAlaska_10
+  - first:
+      213: 1777639557817443626
+    second: CacingBesarAlaska_11
+  - first:
+      213: 3663988812463481425
+    second: CacingBesarAlaska_12
+  - first:
+      213: 4296255738388839080
+    second: CacingBesarAlaska_13
+  - first:
+      213: -8751156046227012212
+    second: CacingBesarAlaska_14
+  - first:
+      213: 4921023431671992457
+    second: CacingBesarAlaska_15
+  - first:
+      213: 5065754398782266532
+    second: CacingBesarAlaska_16
+  - first:
+      213: 1776867397157366386
+    second: CacingBesarAlaska_17
+  - first:
+      213: 3984264512013219955
+    second: CacingBesarAlaska_18
+  - first:
+      213: -6655754067355942877
+    second: CacingBesarAlaska_19
+  - first:
+      213: 3061091448294852601
+    second: CacingBesarAlaska_20
+  - first:
+      213: 5159048543254016265
+    second: CacingBesarAlaska_21
+  - first:
+      213: 4211045726191077041
+    second: CacingBesarAlaska_22
+  - first:
+      213: -5110753743155278928
+    second: CacingBesarAlaska_23
+  - first:
+      213: 2398975415839934411
+    second: CacingBesarAlaska_24
+  - first:
+      213: -3575316533236596140
+    second: CacingBesarAlaska_25
+  - first:
+      213: -3837397657264442543
+    second: CacingBesarAlaska_26
+  - first:
+      213: 7120170951565292364
+    second: CacingBesarAlaska_27
+  - first:
+      213: -8322911982452095646
+    second: CacingBesarAlaska_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CacingBesarAlaska_7
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 677
+        width: 388
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7894c201b6a783e20800000000000000
+      internalID: 3330546524691908999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 651
+        width: 519
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f302b74d0cee10800000000000000
+      internalID: 2228170517221995206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 685
+        width: 288
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25246e62c17ba810800000000000000
+      internalID: 1777639557817443626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_14
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 537
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8580aa01f5ad8680800000000000000
+      internalID: -8751156046227012212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_15
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 537
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980de280dbcfa4440800000000000000
+      internalID: 4921023431671992457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_16
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 390
+        width: 172
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1ac249cc2d4640800000000000000
+      internalID: 5065754398782266532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_17
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 382
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa984cb73b8a810800000000000000
+      internalID: 1776867397157366386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_18
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 380
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3783eb1d673fa4730800000000000000
+      internalID: 3984264512013219955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_19
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 72
+        width: 415
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32043ee70f202a3a0800000000000000
+      internalID: -6655754067355942877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 519
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6cb82e6c3a07a30800000000000000
+      internalID: 4211045726191077041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_23
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 89
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb4bbc6c84f219b0800000000000000
+      internalID: -5110753743155278928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_24
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 123
+        width: 196
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c80e2e6fda4120800000000000000
+      internalID: 2398975415839934411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 238
+        width: 127
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520adc4e8ce16ec0800000000000000
+      internalID: -3575316533236596140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CacingBesarAlaska_27
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 154
+        width: 127
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ba1491cdefc260800000000000000
+      internalID: 7120170951565292364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
